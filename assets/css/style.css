@@ -288,8 +288,11 @@ section h2 {
     section h2 {
       font-size: 2rem;
     }
-}
 
+    .img-gallery {
+        width: 16rem;
+    }
+}
 
 .img-gallery {
     width: 20rem;
